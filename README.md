@@ -2,9 +2,6 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Aman Pailwan</font></h1>
 <h3 align="center"><font face="Arial">I am a passionate Developer </font></h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://media.tenor.com/OUYVUInLzHIAAAAM/hacker-pepe.gif" />
-
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
