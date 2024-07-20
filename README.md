@@ -37,6 +37,6 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Software Development**
 - 📫 How to reach me **[aman.pailwan.773@gmail.com](mailto:aman.pailwan.773@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
